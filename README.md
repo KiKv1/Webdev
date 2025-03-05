@@ -1,2 +1,1 @@
-# Webdev
-Full stack Web development
+Using Wsl git to commit on Github
